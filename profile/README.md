@@ -12,7 +12,7 @@ appear here once you have joined, and they are private to you and the teaching s
    automatically, with nothing further to accept.
 2. If GitHub does not connect that invitation to your account, your school email is probably
    not on it yet. [Adding your @csumb.edu email to an existing GitHub
-   account](https://github.com/cst338-fa26ol/.github/blob/main/docs/add-csumb-email-to-github.md) fixes that, and you do not need a second
+   account](https://github.com/CST-338/course-resources/blob/main/student-guides/add-csumb-email-to-github.md) fixes that, and you do not need a second
    GitHub account.
 3. Canvas is where the work is assigned and graded. This organization only holds the code.
 
@@ -39,8 +39,8 @@ delete work they meant to keep.
 
 ## Reference
 
-- [Adding your @csumb.edu email to an existing GitHub account](https://github.com/cst338-fa26ol/.github/blob/main/docs/add-csumb-email-to-github.md)
-- [Lab: IntelliJ, Rectangle and your first unit test](https://github.com/cst338-fa26ol/.github/blob/main/docs/lab00-readme.md)
+- [Adding your @csumb.edu email to an existing GitHub account](https://github.com/CST-338/course-resources/blob/main/student-guides/add-csumb-email-to-github.md)
+- [Lab: IntelliJ, Rectangle and your first unit test](https://github.com/CST-338/course-resources/blob/main/labs/lab00/README.md)
 
 ## Academic honesty and AI
 

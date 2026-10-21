@@ -18,7 +18,8 @@ appear here once you have joined, and they are private to you and the teaching s
 
 ## How the week runs
 
-Assignments open and close on **Tuesdays**, and due times are 11:59 PM Pacific.
+- Assignments open and close on **Tuesdays**, and due times are 11:59 PM Pacific.
+- There are a few exceptions to this; they will be `highlighted`
 
 ## Working in your repositories
 
